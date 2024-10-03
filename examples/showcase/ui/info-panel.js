@@ -9,19 +9,19 @@ AFRAME.registerComponent('info-panel', {
 
     this.movieInfo = {
       karigurashiButton: {
-        title: 'The Secret World of Arrietty (2010)',
+        title: 'Sumeru incedent',
         imgEl: document.querySelector('#karigurashiMovieImage'),
-        description: 'Based on the 1952 novel The Borrowers by Mary Norton, an English author of children\'s books, about a family of tiny people who live secretly in the walls and floors of a typical household, borrowing items from humans to survive.'
+        description: 'Dottore traveled in Sumeru to collect the Dendro Gnosis. He brought his clones – segments – with him, and exchanged their lives for the Gnosis.'
       },
       kazetachinuButton: {
-        title: 'The Wind Rises (2013)',
+        title: 'Nahida incidet',
         imgEl: document.querySelector('#kazetachinuMovieImage'),
-        description: 'The Wind Rises is a fictionalised biographical film of Jiro Horikoshi (1903, 1982), designer of the Mitsubishi A5M fighter aircraft and its successor, the Mitsubishi A6M Zero, used by the Empire of Japan during World War II. The film is adapted from Miyazaki\'s manga of the same name, which was in turn loosely based on both the 1937 novel The Wind Has Risen by Tatsuo Hori and the life of Jiro Horikoshi.'
+        description: 'Nahida is the Archon of Sumeru. She had the Dendro Gnosis Dottore wanted. So she accepted the deal: for him to kill his segments and give her knowledge, and for her to give away the Gnosis.'
       },
       ponyoButton: {
-        title: 'Ponyo (2003)',
+        title: 'Irminsul incedent',
         imgEl: document.querySelector('#ponyoMovieImage'),
-        description: 'It is the eighth film Miyazaki directed for Studio Ghibli, and his tenth overall. The film tells the story of Ponyo (Nara), a goldfish who escapes from the ocean and is rescued by a five-year-old human boy, Sōsuke (Doi) after she is washed ashore while trapped in a glass jar.'
+        description:  'Once Collei saw a dream, a very strange one. She was dreaming about Irminsul, the giant tree, but it was burned down by Dottore.'
       }
     };
 
